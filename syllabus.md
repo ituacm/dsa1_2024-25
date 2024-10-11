@@ -8,6 +8,7 @@
   - Arrays
   - Pointers
   - Example: Expanding Arrays (Implementation)
+    - Vector
   - BigO Notation
  
 - Week 2: Linked List
@@ -30,7 +31,7 @@
   - Queue
     - Queue basics
     - Ex: Implement a queue using stacks
-    - Ex: Implement a stack using using queues
+    - Ex: Implement a stack using queues
 
 - Week 4: Tree
   - Graph introduction
@@ -49,7 +50,6 @@
     - Ex: Number of islands
 
 - Week 6: STL Data Structures
-  - Vector
   - Heap
   - Set
   - Map
