@@ -8,7 +8,7 @@
 ##  Lecture Day & Time
 📆 **Every Thursday, starting from 22nd of October (First week Tuesday)**  
 🕒 **18.30 - 20.30**  
-📍 **BBF Konferans Salonu**
+📍 **BBF Fakültesi (Sınıf her hafta duyurulacak)**
 
 ## Syllabus
 
