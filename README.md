@@ -14,12 +14,12 @@
 
 | Week | Date     | Topics                      | Lecturer                  | GitHub                                         | LinkedIn                                     |
 |------|----------|-----------------------------|---------------------------|------------------------------------------------|---------------------------------------|
-| 1    | 22 Oct   | Introduction                | Beyza Hilal Parlakçı     |[![GitHub][1]](https://github.com/hilalparlakci)   | [![LinkedIn][2]](https://www.linkedin.com/in/hilalparlakci/)                                         |
-| 2    | 31 Oct    | Linked List             | Racha Badreddine           | [![GitHub][1]](https://github.com/racha-badreddine)         | [![LinkedIn][2]](https://www.linkedin.com/in/racha-badreddine/)|
-| 3    | 7 Nov   | Stack, Queue, Recursion       | Burak Emre Polat         | -        | - |
+| 1    | 22 Oct   | Introduction                | Mert Kaan Yıldız     |[![GitHub][1]](https://github.com/hilalparlakci)   | [![LinkedIn][2]](https://www.linkedin.com/in/hilalparlakci/)                                         |
+| 2    | 31 Oct    | Linked List             |              | [![GitHub][1]](https://github.com/racha-badreddine)         | [![LinkedIn][2]](https://www.linkedin.com/in/racha-badreddine/)|
+| 3    | 7 Nov   | Stack, Queue, Recursion       |             | -        | - |
 | 4    | 14 Nov   | Trees    | Melike Beşparmak                | [![GitHub][1]](https://github.com/metahead00)         | [![LinkedIn][2]](https://www.linkedin.com/in/melike-besparmak/)|
 | 5    | 21 Nov   | Graphs       | Barış Özgenç           | -        | -|
-| 6    | 28 Nov    | STL Data Structures          | Zekeriya Atbaş                  | -       | - |
+| 6    | 28 Nov    | STL Data Structures          |                       | -       | - |
 
 
 ---
