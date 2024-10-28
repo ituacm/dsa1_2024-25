@@ -14,10 +14,10 @@
 
 | Week | Date     | Topics                      | Lecturer                  | GitHub                                         | LinkedIn                                     |
 |------|----------|-----------------------------|---------------------------|------------------------------------------------|---------------------------------------|
-| 1    | 22 Oct   | Introduction                | Mert Kaan Yıldız     |[![GitHub][1]](https://github.com/hilalparlakci)   | [![LinkedIn][2]](https://www.linkedin.com/in/hilalparlakci/)                                         |
-| 2    | 31 Oct    | Linked List             |              | [![GitHub][1]](https://github.com/racha-badreddine)         | [![LinkedIn][2]](https://www.linkedin.com/in/racha-badreddine/)|
+| 1    | 22 Oct   | Introduction                | Mert Kaan Yıldız     |[![GitHub][1]](https://github.com/myiper)   | [![LinkedIn][2]]([https://www.linkedin.com/in/hilalparlakci/](https://www.linkedin.com/in/mert-kaan-y%C4%B1ld%C4%B1z-b10b5a25b/))                                         |
+| 2    | 31 Oct    | Linked List             |              |         | |
 | 3    | 7 Nov   | Stack, Queue, Recursion       |             | -        | - |
-| 4    | 14 Nov   | Trees    |                 | [![GitHub][1]](https://github.com/metahead00)         | [![LinkedIn][2]](https://www.linkedin.com/in/melike-besparmak/)|
+| 4    | 14 Nov   | Trees    |                 |        | 
 | 5    | 21 Nov   | Graphs       |            | -        | -|
 | 6    | 28 Nov    | STL Data Structures          |                       | -       | - |
 
