@@ -2,14 +2,14 @@
 
 - Week 1: Introduction
   - Introduction
-    - Coding basics
-    - Compilers (GCC)
-    - Setup
-  - Arrays
-  - Pointers
-  - Example: Expanding Arrays (Implementation)
-    - Vector
+    - What is DSA?
+    - C/C++ Differences
   - BigO Notation
+  - C++ STL
+  - Recursion
+  - Searching Algorithms
+    -Linear Search
+    -Binary Search
  
 - Week 2: Linked List
   - Singly Linked List
