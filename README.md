@@ -14,11 +14,11 @@
 
 | Week | Date     | Topics                      | Lecturer                  | GitHub                                         | LinkedIn                                     |
 |------|----------|-----------------------------|---------------------------|------------------------------------------------|---------------------------------------|
-| 1    | 22 Oct   | Introduction                | Mert Kaan Yıldız     |[![GitHub][1]](https://github.com/myiper)   | [![LinkedIn][2]](https://www.linkedin.com/in/mert-kaan-y%C4%B1ld%C4%B1z-b10b5a25b/)                                         |
-| 2    | 31 Oct    | Linked List             |      -        |  -       |- |
-| 3    | 7 Nov   | Stack, Queue       |       -      | -        | - |
-| 4    | 14 Nov   | Trees    |            -     |   -     | -|
-| 5    | 21 Nov   | Graphs       |     -       | -        | -|
+| 1    | 7 Nov   | Introduction                | Mert Kaan Yıldız     |[![GitHub][1]](https://github.com/myiper)   | [![LinkedIn][2]](https://www.linkedin.com/in/mert-kaan-y%C4%B1ld%C4%B1z-b10b5a25b/)                                         |
+| 2    | 14 Nov    | Linked List             |      İsmet Arca Erdoğar        |  [![GitHub][1]](https://github.com/arcaerdogar)      |  [![LinkedIn][2]](https://www.linkedin.com/in/ismet-arca-erdo%C4%9Far-738804270/)  |
+| 3    | 28 Nov   | Stack, Queue       |       -      | -        | - |
+| 4    | 5 Dec   | Trees    |            -     |   -     | -|
+| 5    | 12 Dec   | Graphs       |     -       | -        | -|
 
 
 ---
