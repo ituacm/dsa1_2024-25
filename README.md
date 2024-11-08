@@ -6,7 +6,7 @@
 - No Prerequisities needed to attend. 
 
 ##  Lecture Day & Time
-📆 **Every Thursday, starting from 31st of October (First week Tuesday)**  
+📆 **Every Thursday, starting from 7th of November**  
 🕒 **18.00 - 20.00**  
 📍 **BBF Fakültesi (Sınıf her hafta duyurulacak)**
 
